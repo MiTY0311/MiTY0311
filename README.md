@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:82f2be,100:afe3e4&height=120&text=CalaMiTY0311&animation=&fontColor=3eb18f&fontSize=50" />
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:82f2be,100:afe3e4&height=120&text=MiTY0311&animation=&fontColor=3eb18f&fontSize=50" />
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;">
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;">  
-        <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalaMiTY0311&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+        <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiTY0311&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> -->
                 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=calamity0311">
     </div> 
